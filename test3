@@ -1,0 +1,3 @@
+this test3 file i will make in the local directory but will NOT add to the Git list to be sent up to the Github repo on the server.
+
+this file did not go up on the first commit, but I will now make it part of the second commit.

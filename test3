@@ -1,3 +1,8 @@
 this test3 file i will make in the local directory but will NOT add to the Git list to be sent up to the Github repo on the server.
 
 this file did not go up on the first commit, but I will now make it part of the second commit.
+
+ I am modifying the test3 file on the IBM Windows 7 machine.  I will then use Git command line Bash shell that I installed on the Windows 7
+ machine to PUSH this file up to the Github server.  Will have to do a git add and create the list to be pushed.
+ 
+ 
